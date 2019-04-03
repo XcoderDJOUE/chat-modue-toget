@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "module de chat",
+  "main": "chat-modul-toget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+        "type": "git"
+      , "url": "https://github.com/XcoderDJOUE/chat-modue-toget.git"
+    },
+  "keywords": [
+    "chat"
+  ],
+  "author": "xcode09181917 <djouejoel@gmail.com>",
+  "license": "MIT"
+}
